@@ -12,7 +12,7 @@ import java.util.List;
  * A class that handles the tab completion of commands.
  */
 public class CommandCompleter implements TabCompleter {
-	
+
 	private CommandHandler cmdHandler;
 
 	/**

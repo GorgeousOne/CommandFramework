@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e6a9250-5737-481b-8839-689117076eaa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommandFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CommandFramework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/gorgeousone/cmdframework/command/BasicCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/gorgeousone/cmdframework/command/BasicCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/gorgeousone/cmdframework/handler/CommandCompleter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/gorgeousone/cmdframework/handler/CommandCompleter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/gorgeousone/cmdframework/handler/CommandHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/gorgeousone/cmdframework/handler/CommandHandler.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +101,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
