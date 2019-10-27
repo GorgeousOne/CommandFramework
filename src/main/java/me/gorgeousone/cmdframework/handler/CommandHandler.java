@@ -22,7 +22,7 @@ public class CommandHandler implements CommandExecutor {
 
 		this.plugin = plugin;
 		this.commands = new HashSet<>();
-		this.cmdCompleter = new CommandCompleter(plugin, this);
+		this.cmdCompleter = new CommandCompleter(this);
 	}
 
 	/**
