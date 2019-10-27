@@ -1,0 +1,5 @@
+name: CommandFramework
+version: 1.0-SNAPSHOT
+main: me.gorgeousone.cmdframework.Cmdframework
+api-version: 1.13
+description: my cute litlle command framework
