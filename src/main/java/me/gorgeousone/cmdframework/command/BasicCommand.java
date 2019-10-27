@@ -63,7 +63,7 @@ public abstract class BasicCommand {
 	 * @param alias possible alias of the command
 	 */
 	public boolean matches(String alias) {
-		return aliases.contains(alias);
+		return aliases.contains(alias.toLowerCase());
 	}
 
 	/**
@@ -71,7 +71,7 @@ public abstract class BasicCommand {
 	 * @param newAlias new alias for the command
 	 */
 	protected void addAlias(String newAlias) {
-		aliases.add(newAlias);
+		aliases.add(newAlias.toLowerCase());
 	}
 
 	/**
