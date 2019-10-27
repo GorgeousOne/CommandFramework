@@ -1,5 +1,0 @@
-name: CommandFramework
-version: ${project.version}
-main: me.gorgeousone.cmdframework.Cmdframework
-api-version: 1.13
-description: my cute litlle command framework
